@@ -1,0 +1,23 @@
+model:
+  embedding_dim: 100
+  lstm_units: 128
+  dropout_rate: 0.5
+  max_sequence_length: 100
+  vocab_size: 10000
+
+training:
+  batch_size: 32
+  epochs: 50
+  learning_rate: 0.001
+  validation_split: 0.2
+  early_stopping_patience: 10
+
+data:
+  test_size: 0.2
+  random_state: 42
+  min_word_freq: 2
+
+paths:
+  raw_data: "/Users/andreaschitos1/Desktop/text_classification/data/raw/problems_dataset.csv"
+  processed_data: "/Users/andreaschitos1/Desktop/text_classification/data/processed"
+  models: "/Users/andreaschitos1/Desktop/text_classification/models/saved_models"

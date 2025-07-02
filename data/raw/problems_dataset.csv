@@ -1,0 +1,1001 @@
+problem_number,description,problem_type
+1,The screw is too small for the hole,sizing issue
+2,Bolt does not fit properly in the socket,fitting problem
+3,The part is cracked and needs replacement,component damage
+4,Machine is overheating during operation,thermal issue
+5,Component is loose and vibrating,mechanical failure
+6,The material is bent and deformed,structural damage
+7,Electrical connection is faulty,electrical fault
+8,Sensor is not responding correctly,sensor malfunction
+9,The bearing is worn out and noisy,wear and tear
+10,Hydraulic pressure is too low,pressure issue
+11,The gasket is leaking fluid,seal failure
+12,Motor is running at wrong speed,speed control
+13,Temperature sensor shows incorrect readings,calibration error
+14,The valve is stuck in closed position,mechanical jam
+15,Wire insulation is damaged,insulation damage
+16,The gear teeth are worn down,wear and tear
+17,Pump is not delivering enough pressure,pressure issue
+18,The filter is clogged with debris,blockage
+19,Circuit breaker keeps tripping,electrical fault
+20,The spring has lost its tension,spring failure
+21,The screw is too small for the hole,sizing issue
+22,Bolt does not fit properly in the socket,fitting problem
+23,The part is cracked and needs replacement,component damage
+24,Machine is overheating during operation,thermal issue
+25,Component is loose and vibrating,mechanical failure
+26,The material is bent and deformed,structural damage
+27,Electrical connection is faulty,electrical fault
+28,Sensor is not responding correctly,sensor malfunction
+29,The bearing is worn out and noisy,wear and tear
+30,Hydraulic pressure is too low,pressure issue
+31,The gasket is leaking fluid,seal failure
+32,Motor is running at wrong speed,speed control
+33,Temperature sensor shows incorrect readings,calibration error
+34,The valve is stuck in closed position,mechanical jam
+35,Wire insulation is damaged,insulation damage
+36,The gear teeth are worn down,wear and tear
+37,Pump is not delivering enough pressure,pressure issue
+38,The filter is clogged with debris,blockage
+39,Circuit breaker keeps tripping,electrical fault
+40,The spring has lost its tension,spring failure
+41,The screw is too small for the hole,sizing issue
+42,Bolt does not fit properly in the socket,fitting problem
+43,The part is cracked and needs replacement,component damage
+44,Machine is overheating during operation,thermal issue
+45,Component is loose and vibrating,mechanical failure
+46,The material is bent and deformed,structural damage
+47,Electrical connection is faulty,electrical fault
+48,Sensor is not responding correctly,sensor malfunction
+49,The bearing is worn out and noisy,wear and tear
+50,Hydraulic pressure is too low,pressure issue
+51,The gasket is leaking fluid,seal failure
+52,Motor is running at wrong speed,speed control
+53,Temperature sensor shows incorrect readings,calibration error
+54,The valve is stuck in closed position,mechanical jam
+55,Wire insulation is damaged,insulation damage
+56,The gear teeth are worn down,wear and tear
+57,Pump is not delivering enough pressure,pressure issue
+58,The filter is clogged with debris,blockage
+59,Circuit breaker keeps tripping,electrical fault
+60,The spring has lost its tension,spring failure
+61,The screw is too small for the hole,sizing issue
+62,Bolt does not fit properly in the socket,fitting problem
+63,The part is cracked and needs replacement,component damage
+64,Machine is overheating during operation,thermal issue
+65,Component is loose and vibrating,mechanical failure
+66,The material is bent and deformed,structural damage
+67,Electrical connection is faulty,electrical fault
+68,Sensor is not responding correctly,sensor malfunction
+69,The bearing is worn out and noisy,wear and tear
+70,Hydraulic pressure is too low,pressure issue
+71,The gasket is leaking fluid,seal failure
+72,Motor is running at wrong speed,speed control
+73,Temperature sensor shows incorrect readings,calibration error
+74,The valve is stuck in closed position,mechanical jam
+75,Wire insulation is damaged,insulation damage
+76,The gear teeth are worn down,wear and tear
+77,Pump is not delivering enough pressure,pressure issue
+78,The filter is clogged with debris,blockage
+79,Circuit breaker keeps tripping,electrical fault
+80,The spring has lost its tension,spring failure
+81,The screw is too small for the hole,sizing issue
+82,Bolt does not fit properly in the socket,fitting problem
+83,The part is cracked and needs replacement,component damage
+84,Machine is overheating during operation,thermal issue
+85,Component is loose and vibrating,mechanical failure
+86,The material is bent and deformed,structural damage
+87,Electrical connection is faulty,electrical fault
+88,Sensor is not responding correctly,sensor malfunction
+89,The bearing is worn out and noisy,wear and tear
+90,Hydraulic pressure is too low,pressure issue
+91,The gasket is leaking fluid,seal failure
+92,Motor is running at wrong speed,speed control
+93,Temperature sensor shows incorrect readings,calibration error
+94,The valve is stuck in closed position,mechanical jam
+95,Wire insulation is damaged,insulation damage
+96,The gear teeth are worn down,wear and tear
+97,Pump is not delivering enough pressure,pressure issue
+98,The filter is clogged with debris,blockage
+99,Circuit breaker keeps tripping,electrical fault
+100,The spring has lost its tension,spring failure
+101,The screw is too small for the hole,sizing issue
+102,Bolt does not fit properly in the socket,fitting problem
+103,The part is cracked and needs replacement,component damage
+104,Machine is overheating during operation,thermal issue
+105,Component is loose and vibrating,mechanical failure
+106,The material is bent and deformed,structural damage
+107,Electrical connection is faulty,electrical fault
+108,Sensor is not responding correctly,sensor malfunction
+109,The bearing is worn out and noisy,wear and tear
+110,Hydraulic pressure is too low,pressure issue
+111,The gasket is leaking fluid,seal failure
+112,Motor is running at wrong speed,speed control
+113,Temperature sensor shows incorrect readings,calibration error
+114,The valve is stuck in closed position,mechanical jam
+115,Wire insulation is damaged,insulation damage
+116,The gear teeth are worn down,wear and tear
+117,Pump is not delivering enough pressure,pressure issue
+118,The filter is clogged with debris,blockage
+119,Circuit breaker keeps tripping,electrical fault
+120,The spring has lost its tension,spring failure
+121,The screw is too small for the hole,sizing issue
+122,Bolt does not fit properly in the socket,fitting problem
+123,The part is cracked and needs replacement,component damage
+124,Machine is overheating during operation,thermal issue
+125,Component is loose and vibrating,mechanical failure
+126,The material is bent and deformed,structural damage
+127,Electrical connection is faulty,electrical fault
+128,Sensor is not responding correctly,sensor malfunction
+129,The bearing is worn out and noisy,wear and tear
+130,Hydraulic pressure is too low,pressure issue
+131,The gasket is leaking fluid,seal failure
+132,Motor is running at wrong speed,speed control
+133,Temperature sensor shows incorrect readings,calibration error
+134,The valve is stuck in closed position,mechanical jam
+135,Wire insulation is damaged,insulation damage
+136,The gear teeth are worn down,wear and tear
+137,Pump is not delivering enough pressure,pressure issue
+138,The filter is clogged with debris,blockage
+139,Circuit breaker keeps tripping,electrical fault
+140,The spring has lost its tension,spring failure
+141,The screw is too small for the hole,sizing issue
+142,Bolt does not fit properly in the socket,fitting problem
+143,The part is cracked and needs replacement,component damage
+144,Machine is overheating during operation,thermal issue
+145,Component is loose and vibrating,mechanical failure
+146,The material is bent and deformed,structural damage
+147,Electrical connection is faulty,electrical fault
+148,Sensor is not responding correctly,sensor malfunction
+149,The bearing is worn out and noisy,wear and tear
+150,Hydraulic pressure is too low,pressure issue
+151,The gasket is leaking fluid,seal failure
+152,Motor is running at wrong speed,speed control
+153,Temperature sensor shows incorrect readings,calibration error
+154,The valve is stuck in closed position,mechanical jam
+155,Wire insulation is damaged,insulation damage
+156,The gear teeth are worn down,wear and tear
+157,Pump is not delivering enough pressure,pressure issue
+158,The filter is clogged with debris,blockage
+159,Circuit breaker keeps tripping,electrical fault
+160,The spring has lost its tension,spring failure
+161,The screw is too small for the hole,sizing issue
+162,Bolt does not fit properly in the socket,fitting problem
+163,The part is cracked and needs replacement,component damage
+164,Machine is overheating during operation,thermal issue
+165,Component is loose and vibrating,mechanical failure
+166,The material is bent and deformed,structural damage
+167,Electrical connection is faulty,electrical fault
+168,Sensor is not responding correctly,sensor malfunction
+169,The bearing is worn out and noisy,wear and tear
+170,Hydraulic pressure is too low,pressure issue
+171,The gasket is leaking fluid,seal failure
+172,Motor is running at wrong speed,speed control
+173,Temperature sensor shows incorrect readings,calibration error
+174,The valve is stuck in closed position,mechanical jam
+175,Wire insulation is damaged,insulation damage
+176,The gear teeth are worn down,wear and tear
+177,Pump is not delivering enough pressure,pressure issue
+178,The filter is clogged with debris,blockage
+179,Circuit breaker keeps tripping,electrical fault
+180,The spring has lost its tension,spring failure
+181,The screw is too small for the hole,sizing issue
+182,Bolt does not fit properly in the socket,fitting problem
+183,The part is cracked and needs replacement,component damage
+184,Machine is overheating during operation,thermal issue
+185,Component is loose and vibrating,mechanical failure
+186,The material is bent and deformed,structural damage
+187,Electrical connection is faulty,electrical fault
+188,Sensor is not responding correctly,sensor malfunction
+189,The bearing is worn out and noisy,wear and tear
+190,Hydraulic pressure is too low,pressure issue
+191,The gasket is leaking fluid,seal failure
+192,Motor is running at wrong speed,speed control
+193,Temperature sensor shows incorrect readings,calibration error
+194,The valve is stuck in closed position,mechanical jam
+195,Wire insulation is damaged,insulation damage
+196,The gear teeth are worn down,wear and tear
+197,Pump is not delivering enough pressure,pressure issue
+198,The filter is clogged with debris,blockage
+199,Circuit breaker keeps tripping,electrical fault
+200,The spring has lost its tension,spring failure
+201,The screw is too small for the hole,sizing issue
+202,Bolt does not fit properly in the socket,fitting problem
+203,The part is cracked and needs replacement,component damage
+204,Machine is overheating during operation,thermal issue
+205,Component is loose and vibrating,mechanical failure
+206,The material is bent and deformed,structural damage
+207,Electrical connection is faulty,electrical fault
+208,Sensor is not responding correctly,sensor malfunction
+209,The bearing is worn out and noisy,wear and tear
+210,Hydraulic pressure is too low,pressure issue
+211,The gasket is leaking fluid,seal failure
+212,Motor is running at wrong speed,speed control
+213,Temperature sensor shows incorrect readings,calibration error
+214,The valve is stuck in closed position,mechanical jam
+215,Wire insulation is damaged,insulation damage
+216,The gear teeth are worn down,wear and tear
+217,Pump is not delivering enough pressure,pressure issue
+218,The filter is clogged with debris,blockage
+219,Circuit breaker keeps tripping,electrical fault
+220,The spring has lost its tension,spring failure
+221,The screw is too small for the hole,sizing issue
+222,Bolt does not fit properly in the socket,fitting problem
+223,The part is cracked and needs replacement,component damage
+224,Machine is overheating during operation,thermal issue
+225,Component is loose and vibrating,mechanical failure
+226,The material is bent and deformed,structural damage
+227,Electrical connection is faulty,electrical fault
+228,Sensor is not responding correctly,sensor malfunction
+229,The bearing is worn out and noisy,wear and tear
+230,Hydraulic pressure is too low,pressure issue
+231,The gasket is leaking fluid,seal failure
+232,Motor is running at wrong speed,speed control
+233,Temperature sensor shows incorrect readings,calibration error
+234,The valve is stuck in closed position,mechanical jam
+235,Wire insulation is damaged,insulation damage
+236,The gear teeth are worn down,wear and tear
+237,Pump is not delivering enough pressure,pressure issue
+238,The filter is clogged with debris,blockage
+239,Circuit breaker keeps tripping,electrical fault
+240,The spring has lost its tension,spring failure
+241,The screw is too small for the hole,sizing issue
+242,Bolt does not fit properly in the socket,fitting problem
+243,The part is cracked and needs replacement,component damage
+244,Machine is overheating during operation,thermal issue
+245,Component is loose and vibrating,mechanical failure
+246,The material is bent and deformed,structural damage
+247,Electrical connection is faulty,electrical fault
+248,Sensor is not responding correctly,sensor malfunction
+249,The bearing is worn out and noisy,wear and tear
+250,Hydraulic pressure is too low,pressure issue
+251,The gasket is leaking fluid,seal failure
+252,Motor is running at wrong speed,speed control
+253,Temperature sensor shows incorrect readings,calibration error
+254,The valve is stuck in closed position,mechanical jam
+255,Wire insulation is damaged,insulation damage
+256,The gear teeth are worn down,wear and tear
+257,Pump is not delivering enough pressure,pressure issue
+258,The filter is clogged with debris,blockage
+259,Circuit breaker keeps tripping,electrical fault
+260,The spring has lost its tension,spring failure
+261,The screw is too small for the hole,sizing issue
+262,Bolt does not fit properly in the socket,fitting problem
+263,The part is cracked and needs replacement,component damage
+264,Machine is overheating during operation,thermal issue
+265,Component is loose and vibrating,mechanical failure
+266,The material is bent and deformed,structural damage
+267,Electrical connection is faulty,electrical fault
+268,Sensor is not responding correctly,sensor malfunction
+269,The bearing is worn out and noisy,wear and tear
+270,Hydraulic pressure is too low,pressure issue
+271,The gasket is leaking fluid,seal failure
+272,Motor is running at wrong speed,speed control
+273,Temperature sensor shows incorrect readings,calibration error
+274,The valve is stuck in closed position,mechanical jam
+275,Wire insulation is damaged,insulation damage
+276,The gear teeth are worn down,wear and tear
+277,Pump is not delivering enough pressure,pressure issue
+278,The filter is clogged with debris,blockage
+279,Circuit breaker keeps tripping,electrical fault
+280,The spring has lost its tension,spring failure
+281,The screw is too small for the hole,sizing issue
+282,Bolt does not fit properly in the socket,fitting problem
+283,The part is cracked and needs replacement,component damage
+284,Machine is overheating during operation,thermal issue
+285,Component is loose and vibrating,mechanical failure
+286,The material is bent and deformed,structural damage
+287,Electrical connection is faulty,electrical fault
+288,Sensor is not responding correctly,sensor malfunction
+289,The bearing is worn out and noisy,wear and tear
+290,Hydraulic pressure is too low,pressure issue
+291,The gasket is leaking fluid,seal failure
+292,Motor is running at wrong speed,speed control
+293,Temperature sensor shows incorrect readings,calibration error
+294,The valve is stuck in closed position,mechanical jam
+295,Wire insulation is damaged,insulation damage
+296,The gear teeth are worn down,wear and tear
+297,Pump is not delivering enough pressure,pressure issue
+298,The filter is clogged with debris,blockage
+299,Circuit breaker keeps tripping,electrical fault
+300,The spring has lost its tension,spring failure
+301,The screw is too small for the hole,sizing issue
+302,Bolt does not fit properly in the socket,fitting problem
+303,The part is cracked and needs replacement,component damage
+304,Machine is overheating during operation,thermal issue
+305,Component is loose and vibrating,mechanical failure
+306,The material is bent and deformed,structural damage
+307,Electrical connection is faulty,electrical fault
+308,Sensor is not responding correctly,sensor malfunction
+309,The bearing is worn out and noisy,wear and tear
+310,Hydraulic pressure is too low,pressure issue
+311,The gasket is leaking fluid,seal failure
+312,Motor is running at wrong speed,speed control
+313,Temperature sensor shows incorrect readings,calibration error
+314,The valve is stuck in closed position,mechanical jam
+315,Wire insulation is damaged,insulation damage
+316,The gear teeth are worn down,wear and tear
+317,Pump is not delivering enough pressure,pressure issue
+318,The filter is clogged with debris,blockage
+319,Circuit breaker keeps tripping,electrical fault
+320,The spring has lost its tension,spring failure
+321,The screw is too small for the hole,sizing issue
+322,Bolt does not fit properly in the socket,fitting problem
+323,The part is cracked and needs replacement,component damage
+324,Machine is overheating during operation,thermal issue
+325,Component is loose and vibrating,mechanical failure
+326,The material is bent and deformed,structural damage
+327,Electrical connection is faulty,electrical fault
+328,Sensor is not responding correctly,sensor malfunction
+329,The bearing is worn out and noisy,wear and tear
+330,Hydraulic pressure is too low,pressure issue
+331,The gasket is leaking fluid,seal failure
+332,Motor is running at wrong speed,speed control
+333,Temperature sensor shows incorrect readings,calibration error
+334,The valve is stuck in closed position,mechanical jam
+335,Wire insulation is damaged,insulation damage
+336,The gear teeth are worn down,wear and tear
+337,Pump is not delivering enough pressure,pressure issue
+338,The filter is clogged with debris,blockage
+339,Circuit breaker keeps tripping,electrical fault
+340,The spring has lost its tension,spring failure
+341,The screw is too small for the hole,sizing issue
+342,Bolt does not fit properly in the socket,fitting problem
+343,The part is cracked and needs replacement,component damage
+344,Machine is overheating during operation,thermal issue
+345,Component is loose and vibrating,mechanical failure
+346,The material is bent and deformed,structural damage
+347,Electrical connection is faulty,electrical fault
+348,Sensor is not responding correctly,sensor malfunction
+349,The bearing is worn out and noisy,wear and tear
+350,Hydraulic pressure is too low,pressure issue
+351,The gasket is leaking fluid,seal failure
+352,Motor is running at wrong speed,speed control
+353,Temperature sensor shows incorrect readings,calibration error
+354,The valve is stuck in closed position,mechanical jam
+355,Wire insulation is damaged,insulation damage
+356,The gear teeth are worn down,wear and tear
+357,Pump is not delivering enough pressure,pressure issue
+358,The filter is clogged with debris,blockage
+359,Circuit breaker keeps tripping,electrical fault
+360,The spring has lost its tension,spring failure
+361,The screw is too small for the hole,sizing issue
+362,Bolt does not fit properly in the socket,fitting problem
+363,The part is cracked and needs replacement,component damage
+364,Machine is overheating during operation,thermal issue
+365,Component is loose and vibrating,mechanical failure
+366,The material is bent and deformed,structural damage
+367,Electrical connection is faulty,electrical fault
+368,Sensor is not responding correctly,sensor malfunction
+369,The bearing is worn out and noisy,wear and tear
+370,Hydraulic pressure is too low,pressure issue
+371,The gasket is leaking fluid,seal failure
+372,Motor is running at wrong speed,speed control
+373,Temperature sensor shows incorrect readings,calibration error
+374,The valve is stuck in closed position,mechanical jam
+375,Wire insulation is damaged,insulation damage
+376,The gear teeth are worn down,wear and tear
+377,Pump is not delivering enough pressure,pressure issue
+378,The filter is clogged with debris,blockage
+379,Circuit breaker keeps tripping,electrical fault
+380,The spring has lost its tension,spring failure
+381,The screw is too small for the hole,sizing issue
+382,Bolt does not fit properly in the socket,fitting problem
+383,The part is cracked and needs replacement,component damage
+384,Machine is overheating during operation,thermal issue
+385,Component is loose and vibrating,mechanical failure
+386,The material is bent and deformed,structural damage
+387,Electrical connection is faulty,electrical fault
+388,Sensor is not responding correctly,sensor malfunction
+389,The bearing is worn out and noisy,wear and tear
+390,Hydraulic pressure is too low,pressure issue
+391,The gasket is leaking fluid,seal failure
+392,Motor is running at wrong speed,speed control
+393,Temperature sensor shows incorrect readings,calibration error
+394,The valve is stuck in closed position,mechanical jam
+395,Wire insulation is damaged,insulation damage
+396,The gear teeth are worn down,wear and tear
+397,Pump is not delivering enough pressure,pressure issue
+398,The filter is clogged with debris,blockage
+399,Circuit breaker keeps tripping,electrical fault
+400,The spring has lost its tension,spring failure
+401,The screw is too small for the hole,sizing issue
+402,Bolt does not fit properly in the socket,fitting problem
+403,The part is cracked and needs replacement,component damage
+404,Machine is overheating during operation,thermal issue
+405,Component is loose and vibrating,mechanical failure
+406,The material is bent and deformed,structural damage
+407,Electrical connection is faulty,electrical fault
+408,Sensor is not responding correctly,sensor malfunction
+409,The bearing is worn out and noisy,wear and tear
+410,Hydraulic pressure is too low,pressure issue
+411,The gasket is leaking fluid,seal failure
+412,Motor is running at wrong speed,speed control
+413,Temperature sensor shows incorrect readings,calibration error
+414,The valve is stuck in closed position,mechanical jam
+415,Wire insulation is damaged,insulation damage
+416,The gear teeth are worn down,wear and tear
+417,Pump is not delivering enough pressure,pressure issue
+418,The filter is clogged with debris,blockage
+419,Circuit breaker keeps tripping,electrical fault
+420,The spring has lost its tension,spring failure
+421,The screw is too small for the hole,sizing issue
+422,Bolt does not fit properly in the socket,fitting problem
+423,The part is cracked and needs replacement,component damage
+424,Machine is overheating during operation,thermal issue
+425,Component is loose and vibrating,mechanical failure
+426,The material is bent and deformed,structural damage
+427,Electrical connection is faulty,electrical fault
+428,Sensor is not responding correctly,sensor malfunction
+429,The bearing is worn out and noisy,wear and tear
+430,Hydraulic pressure is too low,pressure issue
+431,The gasket is leaking fluid,seal failure
+432,Motor is running at wrong speed,speed control
+433,Temperature sensor shows incorrect readings,calibration error
+434,The valve is stuck in closed position,mechanical jam
+435,Wire insulation is damaged,insulation damage
+436,The gear teeth are worn down,wear and tear
+437,Pump is not delivering enough pressure,pressure issue
+438,The filter is clogged with debris,blockage
+439,Circuit breaker keeps tripping,electrical fault
+440,The spring has lost its tension,spring failure
+441,The screw is too small for the hole,sizing issue
+442,Bolt does not fit properly in the socket,fitting problem
+443,The part is cracked and needs replacement,component damage
+444,Machine is overheating during operation,thermal issue
+445,Component is loose and vibrating,mechanical failure
+446,The material is bent and deformed,structural damage
+447,Electrical connection is faulty,electrical fault
+448,Sensor is not responding correctly,sensor malfunction
+449,The bearing is worn out and noisy,wear and tear
+450,Hydraulic pressure is too low,pressure issue
+451,The gasket is leaking fluid,seal failure
+452,Motor is running at wrong speed,speed control
+453,Temperature sensor shows incorrect readings,calibration error
+454,The valve is stuck in closed position,mechanical jam
+455,Wire insulation is damaged,insulation damage
+456,The gear teeth are worn down,wear and tear
+457,Pump is not delivering enough pressure,pressure issue
+458,The filter is clogged with debris,blockage
+459,Circuit breaker keeps tripping,electrical fault
+460,The spring has lost its tension,spring failure
+461,The screw is too small for the hole,sizing issue
+462,Bolt does not fit properly in the socket,fitting problem
+463,The part is cracked and needs replacement,component damage
+464,Machine is overheating during operation,thermal issue
+465,Component is loose and vibrating,mechanical failure
+466,The material is bent and deformed,structural damage
+467,Electrical connection is faulty,electrical fault
+468,Sensor is not responding correctly,sensor malfunction
+469,The bearing is worn out and noisy,wear and tear
+470,Hydraulic pressure is too low,pressure issue
+471,The gasket is leaking fluid,seal failure
+472,Motor is running at wrong speed,speed control
+473,Temperature sensor shows incorrect readings,calibration error
+474,The valve is stuck in closed position,mechanical jam
+475,Wire insulation is damaged,insulation damage
+476,The gear teeth are worn down,wear and tear
+477,Pump is not delivering enough pressure,pressure issue
+478,The filter is clogged with debris,blockage
+479,Circuit breaker keeps tripping,electrical fault
+480,The spring has lost its tension,spring failure
+481,The screw is too small for the hole,sizing issue
+482,Bolt does not fit properly in the socket,fitting problem
+483,The part is cracked and needs replacement,component damage
+484,Machine is overheating during operation,thermal issue
+485,Component is loose and vibrating,mechanical failure
+486,The material is bent and deformed,structural damage
+487,Electrical connection is faulty,electrical fault
+488,Sensor is not responding correctly,sensor malfunction
+489,The bearing is worn out and noisy,wear and tear
+490,Hydraulic pressure is too low,pressure issue
+491,The gasket is leaking fluid,seal failure
+492,Motor is running at wrong speed,speed control
+493,Temperature sensor shows incorrect readings,calibration error
+494,The valve is stuck in closed position,mechanical jam
+495,Wire insulation is damaged,insulation damage
+496,The gear teeth are worn down,wear and tear
+497,Pump is not delivering enough pressure,pressure issue
+498,The filter is clogged with debris,blockage
+499,Circuit breaker keeps tripping,electrical fault
+500,The spring has lost its tension,spring failure
+501,The screw is too small for the hole,sizing issue
+502,Bolt does not fit properly in the socket,fitting problem
+503,The part is cracked and needs replacement,component damage
+504,Machine is overheating during operation,thermal issue
+505,Component is loose and vibrating,mechanical failure
+506,The material is bent and deformed,structural damage
+507,Electrical connection is faulty,electrical fault
+508,Sensor is not responding correctly,sensor malfunction
+509,The bearing is worn out and noisy,wear and tear
+510,Hydraulic pressure is too low,pressure issue
+511,The gasket is leaking fluid,seal failure
+512,Motor is running at wrong speed,speed control
+513,Temperature sensor shows incorrect readings,calibration error
+514,The valve is stuck in closed position,mechanical jam
+515,Wire insulation is damaged,insulation damage
+516,The gear teeth are worn down,wear and tear
+517,Pump is not delivering enough pressure,pressure issue
+518,The filter is clogged with debris,blockage
+519,Circuit breaker keeps tripping,electrical fault
+520,The spring has lost its tension,spring failure
+521,The screw is too small for the hole,sizing issue
+522,Bolt does not fit properly in the socket,fitting problem
+523,The part is cracked and needs replacement,component damage
+524,Machine is overheating during operation,thermal issue
+525,Component is loose and vibrating,mechanical failure
+526,The material is bent and deformed,structural damage
+527,Electrical connection is faulty,electrical fault
+528,Sensor is not responding correctly,sensor malfunction
+529,The bearing is worn out and noisy,wear and tear
+530,Hydraulic pressure is too low,pressure issue
+531,The gasket is leaking fluid,seal failure
+532,Motor is running at wrong speed,speed control
+533,Temperature sensor shows incorrect readings,calibration error
+534,The valve is stuck in closed position,mechanical jam
+535,Wire insulation is damaged,insulation damage
+536,The gear teeth are worn down,wear and tear
+537,Pump is not delivering enough pressure,pressure issue
+538,The filter is clogged with debris,blockage
+539,Circuit breaker keeps tripping,electrical fault
+540,The spring has lost its tension,spring failure
+541,The screw is too small for the hole,sizing issue
+542,Bolt does not fit properly in the socket,fitting problem
+543,The part is cracked and needs replacement,component damage
+544,Machine is overheating during operation,thermal issue
+545,Component is loose and vibrating,mechanical failure
+546,The material is bent and deformed,structural damage
+547,Electrical connection is faulty,electrical fault
+548,Sensor is not responding correctly,sensor malfunction
+549,The bearing is worn out and noisy,wear and tear
+550,Hydraulic pressure is too low,pressure issue
+551,The gasket is leaking fluid,seal failure
+552,Motor is running at wrong speed,speed control
+553,Temperature sensor shows incorrect readings,calibration error
+554,The valve is stuck in closed position,mechanical jam
+555,Wire insulation is damaged,insulation damage
+556,The gear teeth are worn down,wear and tear
+557,Pump is not delivering enough pressure,pressure issue
+558,The filter is clogged with debris,blockage
+559,Circuit breaker keeps tripping,electrical fault
+560,The spring has lost its tension,spring failure
+561,The screw is too small for the hole,sizing issue
+562,Bolt does not fit properly in the socket,fitting problem
+563,The part is cracked and needs replacement,component damage
+564,Machine is overheating during operation,thermal issue
+565,Component is loose and vibrating,mechanical failure
+566,The material is bent and deformed,structural damage
+567,Electrical connection is faulty,electrical fault
+568,Sensor is not responding correctly,sensor malfunction
+569,The bearing is worn out and noisy,wear and tear
+570,Hydraulic pressure is too low,pressure issue
+571,The gasket is leaking fluid,seal failure
+572,Motor is running at wrong speed,speed control
+573,Temperature sensor shows incorrect readings,calibration error
+574,The valve is stuck in closed position,mechanical jam
+575,Wire insulation is damaged,insulation damage
+576,The gear teeth are worn down,wear and tear
+577,Pump is not delivering enough pressure,pressure issue
+578,The filter is clogged with debris,blockage
+579,Circuit breaker keeps tripping,electrical fault
+580,The spring has lost its tension,spring failure
+581,The screw is too small for the hole,sizing issue
+582,Bolt does not fit properly in the socket,fitting problem
+583,The part is cracked and needs replacement,component damage
+584,Machine is overheating during operation,thermal issue
+585,Component is loose and vibrating,mechanical failure
+586,The material is bent and deformed,structural damage
+587,Electrical connection is faulty,electrical fault
+588,Sensor is not responding correctly,sensor malfunction
+589,The bearing is worn out and noisy,wear and tear
+590,Hydraulic pressure is too low,pressure issue
+591,The gasket is leaking fluid,seal failure
+592,Motor is running at wrong speed,speed control
+593,Temperature sensor shows incorrect readings,calibration error
+594,The valve is stuck in closed position,mechanical jam
+595,Wire insulation is damaged,insulation damage
+596,The gear teeth are worn down,wear and tear
+597,Pump is not delivering enough pressure,pressure issue
+598,The filter is clogged with debris,blockage
+599,Circuit breaker keeps tripping,electrical fault
+600,The spring has lost its tension,spring failure
+601,The screw is too small for the hole,sizing issue
+602,Bolt does not fit properly in the socket,fitting problem
+603,The part is cracked and needs replacement,component damage
+604,Machine is overheating during operation,thermal issue
+605,Component is loose and vibrating,mechanical failure
+606,The material is bent and deformed,structural damage
+607,Electrical connection is faulty,electrical fault
+608,Sensor is not responding correctly,sensor malfunction
+609,The bearing is worn out and noisy,wear and tear
+610,Hydraulic pressure is too low,pressure issue
+611,The gasket is leaking fluid,seal failure
+612,Motor is running at wrong speed,speed control
+613,Temperature sensor shows incorrect readings,calibration error
+614,The valve is stuck in closed position,mechanical jam
+615,Wire insulation is damaged,insulation damage
+616,The gear teeth are worn down,wear and tear
+617,Pump is not delivering enough pressure,pressure issue
+618,The filter is clogged with debris,blockage
+619,Circuit breaker keeps tripping,electrical fault
+620,The spring has lost its tension,spring failure
+621,The screw is too small for the hole,sizing issue
+622,Bolt does not fit properly in the socket,fitting problem
+623,The part is cracked and needs replacement,component damage
+624,Machine is overheating during operation,thermal issue
+625,Component is loose and vibrating,mechanical failure
+626,The material is bent and deformed,structural damage
+627,Electrical connection is faulty,electrical fault
+628,Sensor is not responding correctly,sensor malfunction
+629,The bearing is worn out and noisy,wear and tear
+630,Hydraulic pressure is too low,pressure issue
+631,The gasket is leaking fluid,seal failure
+632,Motor is running at wrong speed,speed control
+633,Temperature sensor shows incorrect readings,calibration error
+634,The valve is stuck in closed position,mechanical jam
+635,Wire insulation is damaged,insulation damage
+636,The gear teeth are worn down,wear and tear
+637,Pump is not delivering enough pressure,pressure issue
+638,The filter is clogged with debris,blockage
+639,Circuit breaker keeps tripping,electrical fault
+640,The spring has lost its tension,spring failure
+641,The screw is too small for the hole,sizing issue
+642,Bolt does not fit properly in the socket,fitting problem
+643,The part is cracked and needs replacement,component damage
+644,Machine is overheating during operation,thermal issue
+645,Component is loose and vibrating,mechanical failure
+646,The material is bent and deformed,structural damage
+647,Electrical connection is faulty,electrical fault
+648,Sensor is not responding correctly,sensor malfunction
+649,The bearing is worn out and noisy,wear and tear
+650,Hydraulic pressure is too low,pressure issue
+651,The gasket is leaking fluid,seal failure
+652,Motor is running at wrong speed,speed control
+653,Temperature sensor shows incorrect readings,calibration error
+654,The valve is stuck in closed position,mechanical jam
+655,Wire insulation is damaged,insulation damage
+656,The gear teeth are worn down,wear and tear
+657,Pump is not delivering enough pressure,pressure issue
+658,The filter is clogged with debris,blockage
+659,Circuit breaker keeps tripping,electrical fault
+660,The spring has lost its tension,spring failure
+661,The screw is too small for the hole,sizing issue
+662,Bolt does not fit properly in the socket,fitting problem
+663,The part is cracked and needs replacement,component damage
+664,Machine is overheating during operation,thermal issue
+665,Component is loose and vibrating,mechanical failure
+666,The material is bent and deformed,structural damage
+667,Electrical connection is faulty,electrical fault
+668,Sensor is not responding correctly,sensor malfunction
+669,The bearing is worn out and noisy,wear and tear
+670,Hydraulic pressure is too low,pressure issue
+671,The gasket is leaking fluid,seal failure
+672,Motor is running at wrong speed,speed control
+673,Temperature sensor shows incorrect readings,calibration error
+674,The valve is stuck in closed position,mechanical jam
+675,Wire insulation is damaged,insulation damage
+676,The gear teeth are worn down,wear and tear
+677,Pump is not delivering enough pressure,pressure issue
+678,The filter is clogged with debris,blockage
+679,Circuit breaker keeps tripping,electrical fault
+680,The spring has lost its tension,spring failure
+681,The screw is too small for the hole,sizing issue
+682,Bolt does not fit properly in the socket,fitting problem
+683,The part is cracked and needs replacement,component damage
+684,Machine is overheating during operation,thermal issue
+685,Component is loose and vibrating,mechanical failure
+686,The material is bent and deformed,structural damage
+687,Electrical connection is faulty,electrical fault
+688,Sensor is not responding correctly,sensor malfunction
+689,The bearing is worn out and noisy,wear and tear
+690,Hydraulic pressure is too low,pressure issue
+691,The gasket is leaking fluid,seal failure
+692,Motor is running at wrong speed,speed control
+693,Temperature sensor shows incorrect readings,calibration error
+694,The valve is stuck in closed position,mechanical jam
+695,Wire insulation is damaged,insulation damage
+696,The gear teeth are worn down,wear and tear
+697,Pump is not delivering enough pressure,pressure issue
+698,The filter is clogged with debris,blockage
+699,Circuit breaker keeps tripping,electrical fault
+700,The spring has lost its tension,spring failure
+701,The screw is too small for the hole,sizing issue
+702,Bolt does not fit properly in the socket,fitting problem
+703,The part is cracked and needs replacement,component damage
+704,Machine is overheating during operation,thermal issue
+705,Component is loose and vibrating,mechanical failure
+706,The material is bent and deformed,structural damage
+707,Electrical connection is faulty,electrical fault
+708,Sensor is not responding correctly,sensor malfunction
+709,The bearing is worn out and noisy,wear and tear
+710,Hydraulic pressure is too low,pressure issue
+711,The gasket is leaking fluid,seal failure
+712,Motor is running at wrong speed,speed control
+713,Temperature sensor shows incorrect readings,calibration error
+714,The valve is stuck in closed position,mechanical jam
+715,Wire insulation is damaged,insulation damage
+716,The gear teeth are worn down,wear and tear
+717,Pump is not delivering enough pressure,pressure issue
+718,The filter is clogged with debris,blockage
+719,Circuit breaker keeps tripping,electrical fault
+720,The spring has lost its tension,spring failure
+721,The screw is too small for the hole,sizing issue
+722,Bolt does not fit properly in the socket,fitting problem
+723,The part is cracked and needs replacement,component damage
+724,Machine is overheating during operation,thermal issue
+725,Component is loose and vibrating,mechanical failure
+726,The material is bent and deformed,structural damage
+727,Electrical connection is faulty,electrical fault
+728,Sensor is not responding correctly,sensor malfunction
+729,The bearing is worn out and noisy,wear and tear
+730,Hydraulic pressure is too low,pressure issue
+731,The gasket is leaking fluid,seal failure
+732,Motor is running at wrong speed,speed control
+733,Temperature sensor shows incorrect readings,calibration error
+734,The valve is stuck in closed position,mechanical jam
+735,Wire insulation is damaged,insulation damage
+736,The gear teeth are worn down,wear and tear
+737,Pump is not delivering enough pressure,pressure issue
+738,The filter is clogged with debris,blockage
+739,Circuit breaker keeps tripping,electrical fault
+740,The spring has lost its tension,spring failure
+741,The screw is too small for the hole,sizing issue
+742,Bolt does not fit properly in the socket,fitting problem
+743,The part is cracked and needs replacement,component damage
+744,Machine is overheating during operation,thermal issue
+745,Component is loose and vibrating,mechanical failure
+746,The material is bent and deformed,structural damage
+747,Electrical connection is faulty,electrical fault
+748,Sensor is not responding correctly,sensor malfunction
+749,The bearing is worn out and noisy,wear and tear
+750,Hydraulic pressure is too low,pressure issue
+751,The gasket is leaking fluid,seal failure
+752,Motor is running at wrong speed,speed control
+753,Temperature sensor shows incorrect readings,calibration error
+754,The valve is stuck in closed position,mechanical jam
+755,Wire insulation is damaged,insulation damage
+756,The gear teeth are worn down,wear and tear
+757,Pump is not delivering enough pressure,pressure issue
+758,The filter is clogged with debris,blockage
+759,Circuit breaker keeps tripping,electrical fault
+760,The spring has lost its tension,spring failure
+761,The screw is too small for the hole,sizing issue
+762,Bolt does not fit properly in the socket,fitting problem
+763,The part is cracked and needs replacement,component damage
+764,Machine is overheating during operation,thermal issue
+765,Component is loose and vibrating,mechanical failure
+766,The material is bent and deformed,structural damage
+767,Electrical connection is faulty,electrical fault
+768,Sensor is not responding correctly,sensor malfunction
+769,The bearing is worn out and noisy,wear and tear
+770,Hydraulic pressure is too low,pressure issue
+771,The gasket is leaking fluid,seal failure
+772,Motor is running at wrong speed,speed control
+773,Temperature sensor shows incorrect readings,calibration error
+774,The valve is stuck in closed position,mechanical jam
+775,Wire insulation is damaged,insulation damage
+776,The gear teeth are worn down,wear and tear
+777,Pump is not delivering enough pressure,pressure issue
+778,The filter is clogged with debris,blockage
+779,Circuit breaker keeps tripping,electrical fault
+780,The spring has lost its tension,spring failure
+781,The screw is too small for the hole,sizing issue
+782,Bolt does not fit properly in the socket,fitting problem
+783,The part is cracked and needs replacement,component damage
+784,Machine is overheating during operation,thermal issue
+785,Component is loose and vibrating,mechanical failure
+786,The material is bent and deformed,structural damage
+787,Electrical connection is faulty,electrical fault
+788,Sensor is not responding correctly,sensor malfunction
+789,The bearing is worn out and noisy,wear and tear
+790,Hydraulic pressure is too low,pressure issue
+791,The gasket is leaking fluid,seal failure
+792,Motor is running at wrong speed,speed control
+793,Temperature sensor shows incorrect readings,calibration error
+794,The valve is stuck in closed position,mechanical jam
+795,Wire insulation is damaged,insulation damage
+796,The gear teeth are worn down,wear and tear
+797,Pump is not delivering enough pressure,pressure issue
+798,The filter is clogged with debris,blockage
+799,Circuit breaker keeps tripping,electrical fault
+800,The spring has lost its tension,spring failure
+801,The screw is too small for the hole,sizing issue
+802,Bolt does not fit properly in the socket,fitting problem
+803,The part is cracked and needs replacement,component damage
+804,Machine is overheating during operation,thermal issue
+805,Component is loose and vibrating,mechanical failure
+806,The material is bent and deformed,structural damage
+807,Electrical connection is faulty,electrical fault
+808,Sensor is not responding correctly,sensor malfunction
+809,The bearing is worn out and noisy,wear and tear
+810,Hydraulic pressure is too low,pressure issue
+811,The gasket is leaking fluid,seal failure
+812,Motor is running at wrong speed,speed control
+813,Temperature sensor shows incorrect readings,calibration error
+814,The valve is stuck in closed position,mechanical jam
+815,Wire insulation is damaged,insulation damage
+816,The gear teeth are worn down,wear and tear
+817,Pump is not delivering enough pressure,pressure issue
+818,The filter is clogged with debris,blockage
+819,Circuit breaker keeps tripping,electrical fault
+820,The spring has lost its tension,spring failure
+821,The screw is too small for the hole,sizing issue
+822,Bolt does not fit properly in the socket,fitting problem
+823,The part is cracked and needs replacement,component damage
+824,Machine is overheating during operation,thermal issue
+825,Component is loose and vibrating,mechanical failure
+826,The material is bent and deformed,structural damage
+827,Electrical connection is faulty,electrical fault
+828,Sensor is not responding correctly,sensor malfunction
+829,The bearing is worn out and noisy,wear and tear
+830,Hydraulic pressure is too low,pressure issue
+831,The gasket is leaking fluid,seal failure
+832,Motor is running at wrong speed,speed control
+833,Temperature sensor shows incorrect readings,calibration error
+834,The valve is stuck in closed position,mechanical jam
+835,Wire insulation is damaged,insulation damage
+836,The gear teeth are worn down,wear and tear
+837,Pump is not delivering enough pressure,pressure issue
+838,The filter is clogged with debris,blockage
+839,Circuit breaker keeps tripping,electrical fault
+840,The spring has lost its tension,spring failure
+841,The screw is too small for the hole,sizing issue
+842,Bolt does not fit properly in the socket,fitting problem
+843,The part is cracked and needs replacement,component damage
+844,Machine is overheating during operation,thermal issue
+845,Component is loose and vibrating,mechanical failure
+846,The material is bent and deformed,structural damage
+847,Electrical connection is faulty,electrical fault
+848,Sensor is not responding correctly,sensor malfunction
+849,The bearing is worn out and noisy,wear and tear
+850,Hydraulic pressure is too low,pressure issue
+851,The gasket is leaking fluid,seal failure
+852,Motor is running at wrong speed,speed control
+853,Temperature sensor shows incorrect readings,calibration error
+854,The valve is stuck in closed position,mechanical jam
+855,Wire insulation is damaged,insulation damage
+856,The gear teeth are worn down,wear and tear
+857,Pump is not delivering enough pressure,pressure issue
+858,The filter is clogged with debris,blockage
+859,Circuit breaker keeps tripping,electrical fault
+860,The spring has lost its tension,spring failure
+861,The screw is too small for the hole,sizing issue
+862,Bolt does not fit properly in the socket,fitting problem
+863,The part is cracked and needs replacement,component damage
+864,Machine is overheating during operation,thermal issue
+865,Component is loose and vibrating,mechanical failure
+866,The material is bent and deformed,structural damage
+867,Electrical connection is faulty,electrical fault
+868,Sensor is not responding correctly,sensor malfunction
+869,The bearing is worn out and noisy,wear and tear
+870,Hydraulic pressure is too low,pressure issue
+871,The gasket is leaking fluid,seal failure
+872,Motor is running at wrong speed,speed control
+873,Temperature sensor shows incorrect readings,calibration error
+874,The valve is stuck in closed position,mechanical jam
+875,Wire insulation is damaged,insulation damage
+876,The gear teeth are worn down,wear and tear
+877,Pump is not delivering enough pressure,pressure issue
+878,The filter is clogged with debris,blockage
+879,Circuit breaker keeps tripping,electrical fault
+880,The spring has lost its tension,spring failure
+881,The screw is too small for the hole,sizing issue
+882,Bolt does not fit properly in the socket,fitting problem
+883,The part is cracked and needs replacement,component damage
+884,Machine is overheating during operation,thermal issue
+885,Component is loose and vibrating,mechanical failure
+886,The material is bent and deformed,structural damage
+887,Electrical connection is faulty,electrical fault
+888,Sensor is not responding correctly,sensor malfunction
+889,The bearing is worn out and noisy,wear and tear
+890,Hydraulic pressure is too low,pressure issue
+891,The gasket is leaking fluid,seal failure
+892,Motor is running at wrong speed,speed control
+893,Temperature sensor shows incorrect readings,calibration error
+894,The valve is stuck in closed position,mechanical jam
+895,Wire insulation is damaged,insulation damage
+896,The gear teeth are worn down,wear and tear
+897,Pump is not delivering enough pressure,pressure issue
+898,The filter is clogged with debris,blockage
+899,Circuit breaker keeps tripping,electrical fault
+900,The spring has lost its tension,spring failure
+901,The screw is too small for the hole,sizing issue
+902,Bolt does not fit properly in the socket,fitting problem
+903,The part is cracked and needs replacement,component damage
+904,Machine is overheating during operation,thermal issue
+905,Component is loose and vibrating,mechanical failure
+906,The material is bent and deformed,structural damage
+907,Electrical connection is faulty,electrical fault
+908,Sensor is not responding correctly,sensor malfunction
+909,The bearing is worn out and noisy,wear and tear
+910,Hydraulic pressure is too low,pressure issue
+911,The gasket is leaking fluid,seal failure
+912,Motor is running at wrong speed,speed control
+913,Temperature sensor shows incorrect readings,calibration error
+914,The valve is stuck in closed position,mechanical jam
+915,Wire insulation is damaged,insulation damage
+916,The gear teeth are worn down,wear and tear
+917,Pump is not delivering enough pressure,pressure issue
+918,The filter is clogged with debris,blockage
+919,Circuit breaker keeps tripping,electrical fault
+920,The spring has lost its tension,spring failure
+921,The screw is too small for the hole,sizing issue
+922,Bolt does not fit properly in the socket,fitting problem
+923,The part is cracked and needs replacement,component damage
+924,Machine is overheating during operation,thermal issue
+925,Component is loose and vibrating,mechanical failure
+926,The material is bent and deformed,structural damage
+927,Electrical connection is faulty,electrical fault
+928,Sensor is not responding correctly,sensor malfunction
+929,The bearing is worn out and noisy,wear and tear
+930,Hydraulic pressure is too low,pressure issue
+931,The gasket is leaking fluid,seal failure
+932,Motor is running at wrong speed,speed control
+933,Temperature sensor shows incorrect readings,calibration error
+934,The valve is stuck in closed position,mechanical jam
+935,Wire insulation is damaged,insulation damage
+936,The gear teeth are worn down,wear and tear
+937,Pump is not delivering enough pressure,pressure issue
+938,The filter is clogged with debris,blockage
+939,Circuit breaker keeps tripping,electrical fault
+940,The spring has lost its tension,spring failure
+941,The screw is too small for the hole,sizing issue
+942,Bolt does not fit properly in the socket,fitting problem
+943,The part is cracked and needs replacement,component damage
+944,Machine is overheating during operation,thermal issue
+945,Component is loose and vibrating,mechanical failure
+946,The material is bent and deformed,structural damage
+947,Electrical connection is faulty,electrical fault
+948,Sensor is not responding correctly,sensor malfunction
+949,The bearing is worn out and noisy,wear and tear
+950,Hydraulic pressure is too low,pressure issue
+951,The gasket is leaking fluid,seal failure
+952,Motor is running at wrong speed,speed control
+953,Temperature sensor shows incorrect readings,calibration error
+954,The valve is stuck in closed position,mechanical jam
+955,Wire insulation is damaged,insulation damage
+956,The gear teeth are worn down,wear and tear
+957,Pump is not delivering enough pressure,pressure issue
+958,The filter is clogged with debris,blockage
+959,Circuit breaker keeps tripping,electrical fault
+960,The spring has lost its tension,spring failure
+961,The screw is too small for the hole,sizing issue
+962,Bolt does not fit properly in the socket,fitting problem
+963,The part is cracked and needs replacement,component damage
+964,Machine is overheating during operation,thermal issue
+965,Component is loose and vibrating,mechanical failure
+966,The material is bent and deformed,structural damage
+967,Electrical connection is faulty,electrical fault
+968,Sensor is not responding correctly,sensor malfunction
+969,The bearing is worn out and noisy,wear and tear
+970,Hydraulic pressure is too low,pressure issue
+971,The gasket is leaking fluid,seal failure
+972,Motor is running at wrong speed,speed control
+973,Temperature sensor shows incorrect readings,calibration error
+974,The valve is stuck in closed position,mechanical jam
+975,Wire insulation is damaged,insulation damage
+976,The gear teeth are worn down,wear and tear
+977,Pump is not delivering enough pressure,pressure issue
+978,The filter is clogged with debris,blockage
+979,Circuit breaker keeps tripping,electrical fault
+980,The spring has lost its tension,spring failure
+981,The screw is too small for the hole,sizing issue
+982,Bolt does not fit properly in the socket,fitting problem
+983,The part is cracked and needs replacement,component damage
+984,Machine is overheating during operation,thermal issue
+985,Component is loose and vibrating,mechanical failure
+986,The material is bent and deformed,structural damage
+987,Electrical connection is faulty,electrical fault
+988,Sensor is not responding correctly,sensor malfunction
+989,The bearing is worn out and noisy,wear and tear
+990,Hydraulic pressure is too low,pressure issue
+991,The gasket is leaking fluid,seal failure
+992,Motor is running at wrong speed,speed control
+993,Temperature sensor shows incorrect readings,calibration error
+994,The valve is stuck in closed position,mechanical jam
+995,Wire insulation is damaged,insulation damage
+996,The gear teeth are worn down,wear and tear
+997,Pump is not delivering enough pressure,pressure issue
+998,The filter is clogged with debris,blockage
+999,Circuit breaker keeps tripping,electrical fault
+1000,The spring has lost its tension,spring failure
